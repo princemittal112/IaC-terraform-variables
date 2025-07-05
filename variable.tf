@@ -12,15 +12,15 @@ variable "azs" {
 }
 
 variable "public_subnet_count" {
-  default = 1
+  default = 10
 }
 
 variable "private_subnet_count" {
-  default = 1
+  default = 10
 }
 
 variable "ec2_instance_count" {
-  default = 6
+  default = 10
 }
 
 variable "ec2_ami" {
