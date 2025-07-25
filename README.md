@@ -63,3 +63,5 @@ After terraform apply, you'll see:
 
 <img width="545" alt="Screenshot 2025-07-05 at 2 11 39 PM" src="https://github.com/user-attachments/assets/52aec0a1-d2d2-48a2-98aa-f28aba51c616" />
 
+<img width="1440" height="900" alt="terraform variable vpc diagram" src="https://github.com/user-attachments/assets/39740976-cbcd-429a-8f0c-fb88f3c41c88" />
+
